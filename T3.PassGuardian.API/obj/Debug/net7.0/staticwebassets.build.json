@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mo5d1bfVI788yKik2trjJ7QOFq1ws5a4MbhwGf/WSv0=",
+  "Source": "T3.PassGuardian.API",
+  "BasePath": "_content/T3.PassGuardian.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
