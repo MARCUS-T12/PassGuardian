@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9ZHVBcyl/zJquHJQMs/pIgY51Cjdv7jfRC+JI/jAQR2CSF3uoTZ/PusKg2/LcpLxN66rGshr3QDwxWXk+5jJw==",
+  "dgSpecHash": "2JmENUz4RFoR5GCnBMEcDbM8ImuZNJFw1I04kLsN7TpGs4P7Uyr8RAaFZk9KmKZCiRfBpL6vSDFgBhiOcvOpDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.Repositorios\\T3.PassGuardian.Repositorios.csproj",
+  "projectFilePath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.Repositorios\\T3.PassGuardian.Repositorios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\narma\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\narma\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

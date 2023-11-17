@@ -3221,11 +3221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.BasesDatos\\T3.PassGuardian.BasesDatos.csproj",
+      "projectUniqueName": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.BasesDatos\\T3.PassGuardian.BasesDatos.csproj",
       "projectName": "T3.PassGuardian.BasesDatos",
-      "projectPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.BasesDatos\\T3.PassGuardian.BasesDatos.csproj",
+      "projectPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.BasesDatos\\T3.PassGuardian.BasesDatos.csproj",
       "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.BasesDatos\\obj\\",
+      "outputPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.BasesDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3247,11 +3247,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.Helpers\\T3.PassGuardian.Helpers.csproj": {
-              "projectPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.Helpers\\T3.PassGuardian.Helpers.csproj"
+            "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.Helpers\\T3.PassGuardian.Helpers.csproj": {
+              "projectPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.Helpers\\T3.PassGuardian.Helpers.csproj"
             },
-            "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.Modelos\\T3.PassGuardian.Modelos.csproj": {
-              "projectPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\T3.PassGuardian.Modelos\\T3.PassGuardian.Modelos.csproj"
+            "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.Modelos\\T3.PassGuardian.Modelos.csproj": {
+              "projectPath": "C:\\Users\\narma\\Desktop\\PassGuardian\\PassGuardian\\PassGuardian\\T3.PassGuardian.Modelos\\T3.PassGuardian.Modelos.csproj"
             }
           }
         }
